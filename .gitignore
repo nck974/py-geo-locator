@@ -1,0 +1,16 @@
+_archive/
+.venv
+__pycache__
+
+# Photos
+*.jpg
+*.jpeg
+*.cr2
+*.CR2
+*.MOV
+*.mov
+
+# GPS tracks
+*.fit
+*.tcx
+*.tcx
